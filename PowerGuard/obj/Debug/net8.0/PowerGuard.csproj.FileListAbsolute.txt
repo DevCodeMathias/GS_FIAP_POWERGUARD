@@ -1,0 +1,14 @@
+C:\repo\FIAP\GlobalSolution\C#\PowerGuard\PowerGuard\obj\Debug\net8.0\PowerGuard.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\FIAP\GlobalSolution\C#\PowerGuard\PowerGuard\obj\Debug\net8.0\PowerGuard.AssemblyInfoInputs.cache
+C:\repo\FIAP\GlobalSolution\C#\PowerGuard\PowerGuard\obj\Debug\net8.0\PowerGuard.AssemblyInfo.cs
+C:\repo\FIAP\GlobalSolution\C#\PowerGuard\PowerGuard\obj\Debug\net8.0\PowerGuard.csproj.CoreCompileInputs.cache
+C:\repo\FIAP\GlobalSolution\C#\PowerGuard\PowerGuard\bin\Debug\net8.0\PowerGuard.exe
+C:\repo\FIAP\GlobalSolution\C#\PowerGuard\PowerGuard\bin\Debug\net8.0\PowerGuard.deps.json
+C:\repo\FIAP\GlobalSolution\C#\PowerGuard\PowerGuard\bin\Debug\net8.0\PowerGuard.runtimeconfig.json
+C:\repo\FIAP\GlobalSolution\C#\PowerGuard\PowerGuard\bin\Debug\net8.0\PowerGuard.dll
+C:\repo\FIAP\GlobalSolution\C#\PowerGuard\PowerGuard\bin\Debug\net8.0\PowerGuard.pdb
+C:\repo\FIAP\GlobalSolution\C#\PowerGuard\PowerGuard\obj\Debug\net8.0\PowerGuard.dll
+C:\repo\FIAP\GlobalSolution\C#\PowerGuard\PowerGuard\obj\Debug\net8.0\refint\PowerGuard.dll
+C:\repo\FIAP\GlobalSolution\C#\PowerGuard\PowerGuard\obj\Debug\net8.0\PowerGuard.pdb
+C:\repo\FIAP\GlobalSolution\C#\PowerGuard\PowerGuard\obj\Debug\net8.0\PowerGuard.genruntimeconfig.cache
+C:\repo\FIAP\GlobalSolution\C#\PowerGuard\PowerGuard\obj\Debug\net8.0\ref\PowerGuard.dll
