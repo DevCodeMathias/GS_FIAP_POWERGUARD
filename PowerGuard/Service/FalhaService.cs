@@ -11,6 +11,12 @@ namespace PowerGuard.Service
         {
             try
             {
+                if (falha.Inicio > DateTime.Now)
+                {
+                    Console.WriteLine("Erro: A data da falha não pode ser futura.");
+                    return; 
+                }
+
                 falha.Id = proximoId++;
                 falhas.Add(falha);
             }
