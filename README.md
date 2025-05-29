@@ -42,4 +42,32 @@ Após iniciar, escolha uma das opções no menu:
 
 0 - Sair
 
+## 📦 Dependências
+
+O PowerGuard utiliza as seguintes bibliotecas e tecnologias:
+- **.NET 6 (ou superior)**: Plataforma para desenvolvimento da aplicação console.
+- **Console Application**: Interação via linha de comando para usuário final.
+- **IDE recomendado**: Visual Studio ou Visual Studio Code com extensão C#.
+
+## 🗂️ Estrutura de Pastas
+
+```plaintext
+PowerGuard/
+├── Model/
+│   ├── Falha.cs               
+│   └── FalhaEnergia.cs                
+├── Service/
+│   ├── LoginService.cs         
+│   └── FalhaService.cs          
+├── Controller/
+│   ├── FalhaController.cs      
+│   └── LoginController.cs       
+├── View/          
+│   ├── MenuView.cs            
+│   └── LoginView.cs            
+├── Program.cs                  
+├── PowerGuard.csproj             
+└── README.md                   
+```
+
 
